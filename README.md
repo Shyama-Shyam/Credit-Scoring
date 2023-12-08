@@ -1,3 +1,2 @@
 # Credit-Scoring
-this project delas with making ML models to predict that person will default or not
-feature 1
+This project delas with making and optimizing ML models using very first hand standard techniques to predict a person using a credit card will default or not. Dataset used can be found on Kaggle (view the ipynb file)
